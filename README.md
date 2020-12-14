@@ -12,7 +12,7 @@ Requirements:
 * Two A4988stepper motor drivers
 * Two stepper motors
 
-![Alt text](images/Smart Storage_bb.png?raw=true "schematic")
+![Screenshot](https://github.com/anjmittu/smart-storage-arduino/blob/main/images/Smart%20Storage_bb.png)
 
 Before running the program the ESP8266 needs to be configured to work with your wifi.  Run the test_esp8266
 program and send the following commands in the console.
